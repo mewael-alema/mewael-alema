@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm a **Data Scientist** passionate about algorithmic trading and financial machine learning. I love building tools that leverage AI to gain insights from financial markets.
+I'm a **Data Scientist** passionate about algorithmic trading and financial machine learning. I love building tools that leverage AI to gain insights.
 
-- 🔭 I'm currently working on **FinBERT Trading Bot**
-- 🌱 I'm currently learning **Deep Reinforcement Learning for Trading**
-- 👯 I'm looking to collaborate on **Open Source Fintech Projects**
-- 💬 Ask me about **Algorithmic Trading, NLP, Financial Analysis**
-- 📫 How to reach me: **youremail@example.com**
+- 🔭 I'm currently working on **XXX**
+- 🌱 I'm currently learning **XXX**
+- 👯 I'm looking to collaborate on **XXX**
+- 💬 Ask me about **XXX**
+- 📫 How to reach me: **mewaelalemahailu@gmail.com**
 
 ## 🛠️ Technologies & Tools
 
@@ -37,42 +37,29 @@ A machine learning-powered algorithmic trading bot that leverages sentiment anal
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 ![Alpaca](https://img.shields.io/badge/-Alpaca-black?style=flat-square&logo=alpaca)
 
-### [Project 2 Name](https://github.com/yourusername/project2)
-Brief description of your second project highlighting key features and technologies.
+## 🏅 Certifications
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-
-### [Project 3 Name](https://github.com/yourusername/project3)
-Brief description of your third project highlighting key features and technologies.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+[![AWS Cloud Practioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/7fb31f1b-ca7c-460e-bdf5-06a73b6894b9)
+[![Google Data Analytics Professional Certificate](https://images.credly.com/size/220x220/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/6559c45c-e186-4b65-8ca5-c5a7f6b0845f)
+<a href="https://www.udacity.com/certificate/e/25ca0238-8b40-11ef-b087-2b0746e63847" target="_blank">
+  <img src="./images/udacity-certificate.png" width="400px" alt="Udacity Certificate">
+</a>
 
 ## 📈 My Contributions
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Trading Bot with FinBERT and Alpaca](https://yourblog.com/post1)
-- [The Future of AI in Algorithmic Trading](https://yourblog.com/post2)
-- [Optimizing Trading Strategies with Machine Learning](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🔗 Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-yourusername-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-@yourusername-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mewael-a-hailu-334b04181"><img src="https://img.shields.io/badge/-yourusername-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:241mewie@gmail.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 </p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+<img src="https://komarev.com/ghpvc/?username=mewael-alema &label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 
 <!--
 **yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
