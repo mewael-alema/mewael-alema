@@ -1,66 +1,44 @@
-# Hi there, I'm Mewael 👋
+# 👋 Hey, I'm [Your Name]
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mewael-a-hailu-334b04181)
+🎯 **Data Analyst | Python Enthusiast | Power Platform Pro**
 
-## About Me 🚀
+Currently based in the UAE 🇦🇪, I'm a data analyst with a strong focus on **Power BI**, **Power Apps**, and **Python**. I love breaking down complex problems, building tools that make life easier, and digging into data until the story makes sense.
 
-I'm a **Data Scientist** passionate about algorithmic trading and financial machine learning. I love building tools that leverage AI to gain insights.
+### 🧠 What I Do
+- 📊 Build interactive dashboards in **Power BI** that tell compelling data stories  
+- 🛠️ Automate workflows using **Power Apps** & **Power Automate**  
+- 🐍 Use **Python** for data wrangling, analysis, and light machine learning  
+- 📦 Explore ways to make procurement and compliance analytics smarter  
 
-- 🔭 I'm currently working on **XXX**
-- 🌱 I'm currently learning **XXX**
-- 👯 I'm looking to collaborate on **XXX**
-- 💬 Ask me about **XXX**
-- 📫 How to reach me: **mewaelalemahailu@gmail.com**
+### 🔍 Currently...
+- Looking for new opportunities or grad school programs focused on data, analytics, or tech innovation  
+- Sharpening my algorithm/data structure skills  
+- Experimenting with ML models for contract analytics and supplier scoring  
+- Posting some research and learning content (maybe even in video format)  
 
-## 🛠️ Technologies & Tools
+### 🚧 Projects in Progress
+- **Outlier Detection in Procurement** – Identifying anomalies in 200K+ rows using deep learning  
+- **Supplier Rating Engine** – Creating a scoring algorithm based on multiple weighted factors  
+- **Compliance Analytics Toolkit** – A set of dashboards + Python scripts for regulatory teams  
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-Transformers-informational?style=flat&logo=huggingface&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+### 🛠️ Tools & Tech
 
-## 📊 GitHub Stats
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
+![Power Apps](https://img.shields.io/badge/-Power%20Apps-742774?logo=powerapps&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
-</a>
-
-## 🏆 Featured Projects
-
-### [FinBERT Trading Bot](https://github.com/yourusername/finbert-trading-bot)
-A machine learning-powered algorithmic trading bot that leverages sentiment analysis of financial news to make trading decisions.
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
-![Alpaca](https://img.shields.io/badge/-Alpaca-black?style=flat-square&logo=alpaca)
-
-## 🏅 Certifications
-
-[![AWS Cloud Practioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/7fb31f1b-ca7c-460e-bdf5-06a73b6894b9)
-[![Google Data Analytics Professional Certificate](https://images.credly.com/size/220x220/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/6559c45c-e186-4b65-8ca5-c5a7f6b0845f)
-<a href="https://www.udacity.com/certificate/e/25ca0238-8b40-11ef-b087-2b0746e63847" target="_blank">
-  <img src="./images/udacity-certificate.png" width="400px" alt="Udacity Certificate">
-</a>
-
-## 📈 My Contributions
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
-
-## 🔗 Connect with me
-
-<p align="center">
-<a href="https://linkedin.com/in/mewael-a-hailu-334b04181"><img src="https://img.shields.io/badge/-yourusername-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:241mewie@gmail.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-</p>
+### 📫 Let's Connect
+- LinkedIn: [Your LinkedIn link]  
+- Email: [Your professional email]  
+- Portfolio / Blog: [Optional, if you have one]  
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=mewael-alema &label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-
-<!--
-**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+👀 _This GitHub is a mix of polished dashboards, scrappy prototypes, and occasional rabbit holes I go down when something catches my curiosity._  
+Feel free to fork, use, or hit me up if something grabs your attention.
