@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mewael
+# 👋 Hi, I'm Mewael
 
 Data Scientist with an enterprise analytics background, currently focused on **Machine Learning** through an MS in Computer Science at **Georgia Tech**.
 
@@ -6,7 +6,25 @@ I enjoy messy data, real constraints, and models that actually have to work.
 
 ---
 
-## 🧠 What I’m working on
+## 🎯 My Aspirations
+
+### 💡 **Short-term Goals**
+- Master deep learning architectures and their practical applications
+- Build production-ready ML systems that solve real-world problems
+- Contribute to open-source ML projects and the broader ML community
+- Bridge the gap between research and industry-ready solutions
+
+### 🚀 **Long-term Vision**
+- Lead ML engineering teams that deliver impactful, ethical AI solutions
+- Develop ML systems that democratize access to advanced analytics
+- Mentor the next generation of data scientists and ML engineers
+- Pioneer innovative approaches in applied machine learning
+
+I believe in **learning by doing**, **shipping real projects**, and **making ML accessible and practical** for everyone.
+
+---
+
+## 🧠 What I'm working on
 - 🤖 Machine Learning and neural networks  
 - 🐍 Applied data science with Python and SQL  
 - 🧩 Feature engineering and model evaluation  
@@ -28,7 +46,7 @@ Python · SQL · PyTorch · scikit-learn · pandas · NumPy · AWS
 ## 📂 About this GitHub
 This space documents my transition from analytics into ML.
 
-You’ll find practical projects, experiments, and notes from my ML journey. Expect clean baselines, honest results, and learning in public.
+You'll find practical projects, experiments, and notes from my ML journey. Expect clean baselines, honest results, and learning in public.
 
 ---
 
