@@ -47,7 +47,7 @@ Python · SQL · PyTorch · scikit-learn · pandas · NumPy · AWS
 ## 📂 About this GitHub
 This space documents my transition from analytics into ML.
 
-You'll find practical projects, experiments, and notes from my ML journey. Expect clean baselines, honest results, and learning in public.
+You'll find practical projects, experiments, and notes from my ML journey.
 
 ---
 
@@ -63,4 +63,4 @@ You'll find practical projects, experiments, and notes from my ML journey. Expec
 
 ---
 
-👀 Still building. Still learning. Still shipping.
+👀 Still building. Still learning.
