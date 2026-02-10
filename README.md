@@ -39,7 +39,8 @@ Python · SQL · PyTorch · scikit-learn · pandas · NumPy · AWS
 ---
 
 ## 📊 GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mewael-alema&show_icons=true&theme=transparent&hide_rank=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mewael-alema)
 
 ---
 
